@@ -9,6 +9,8 @@ It needs to collect more and more image to retrain the model.
 
 #Randomly Generated Images
 
+<img src="hhttps://github.com/johnnyjana730/ACGAN_animate/blob/master/train_record3/generateimage/9800_image.png" height="300">
+
 Original Images
 
 Green hair
